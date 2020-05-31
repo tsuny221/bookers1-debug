@@ -1,24 +1,15 @@
-# README
+# bookers1-debug
+# DMM WEBCAMP 2ヶ月目応用課題
+## 課題1 Bookers1を完成させよう(穴埋め形式)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Dependency
+Ruby on Rails
 
-Things you may want to cover:
+# Usage
+* このBookers1は未完成です。バグを見つけ、エラーをご自身で解決していただきます。
+* 完成後、カリキュラム『アプリケーションを完成させよう』８章のテスト用specフォルダをダウンロード、
+同じ手順を用いてテストを実行し、項目全てエラーが起きないか確認しましょう。
+  
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# References
+DMM WEBCAMP カリキュラム　https://web-camp.online/lesson/curriculums
